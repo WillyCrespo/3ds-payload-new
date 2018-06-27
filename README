@@ -1,0 +1,28 @@
+# Payload
+Welcome to my new payload for all 3ds and 2ds systems to launch the Homebrew Launcher
+
+# How-to
+Follow all of these steps to do it right or wrong:
+1.Go to System Setting
+2.Make sure your version has 11.7 (in it) U,J,E and others
+3.Go to Internet Settings/Connection Settings and choose the WiFi
+4.Tap on Choose Settings and go to IP Address
+5.Press on No and go to Detailed Setup
+6.Change all 3 to this
+
+IP Address:192.168.798.011
+Subnet Mask:000.000.000.091
+Gateway:198.168.011.034
+
+7.Press OK and Save
+8.Press OK again and press Test
+If say "Connection Successful",Go to the HOME MENU and Go to Internet Browser,URL Bar and type this
+
+https://haxpayload98.000webhostapp.com (If fail,do this one: https://haxpayload97.000webhostapp.com )
+Press the button that says Start Payload and done!
+
+# Credit
+Credit go to:
+
+Cruel
+yellows8
